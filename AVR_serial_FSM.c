@@ -41,7 +41,7 @@ byte rotation = 0;
 #define FORWORD B11111111;  // +-- prev: const byte FORWORD = B11111111
 #define BACKWARD B00000000; // |
 #define READY B00000000;    // |
-#define STOP B01010101;     // +-> haven't tested
+#define STOP B01010101;     // +
 //=============
 
 
