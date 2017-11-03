@@ -3,4 +3,4 @@
 - The program count the waiting time from user specified function and send control messages to the Arduino (`AVR_serial_FSM.c`).
 ### `AVR_serial_FSM.c`
 - It's a Finite State Machine for sending the input signals to make the stepper motor rotate in a specific way.
-- True Value Table of the Stepper motor: [picture](./step-true-value.png)
+- True Value Table of the Stepper motor, [source](http://www.orientalmotor.com/stepper-motors/technology/stepper-motor-pentagon-bipolar-driver.html): ![](./step-true-value.png)
